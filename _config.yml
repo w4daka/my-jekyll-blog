@@ -21,6 +21,9 @@ author: w4daka
 url: "https://w4daka.github.io" 
 baseurl: "/my-jekyll-blog"
 
+# Beautiful Jekyll remote theme
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
